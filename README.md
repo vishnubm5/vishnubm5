@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu Bharadwaj M</h1>
+<h1 align="center">Hello all, I'm Vishnu Bharadwaj M</h1>
 <h3 align="center">A passionate AI Engineer and ML enthusiast building real-world solutions</h3>
 
 - 🔭 I’m currently working on **building scalable Agentic AI frameworks and MCP servers**
